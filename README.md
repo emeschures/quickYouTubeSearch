@@ -1,3 +1,11 @@
+# Quick YouTube Search Engine 
+
+### React setup w/API
+
+#### Cloned boilerplate from Stephen Grider
+
+###
+
 # ReduxSimpleStarter
 
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
